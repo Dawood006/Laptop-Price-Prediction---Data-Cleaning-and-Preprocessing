@@ -138,7 +138,7 @@ To use this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dawood006/[laptop-price-prediction.git](https://github.com/Dawood006/Laptop-Price-Prediction---Data-Cleaning-and-Preprocessing)
+   git clone https://github.com/Dawood006/Laptop-Price-Prediction---Data-Cleaning-and-Preprocessing.git
    ```
 2. Navigate to the repository directory:
    ```bash
