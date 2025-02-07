@@ -126,7 +126,7 @@ A Linear Regression model was used to predict the price of laptops based on the 
 ## Repository Structure
 
 - **Data_cleaning_Price_prediction.ipynb**: Jupyter notebook containing the code for data cleaning, preprocessing, and model building.
-- **lappy2.csv**: The original dataset collected from Flipkart. [Download the dataset here](https://example.com/lappy2.csv).
+- **lappy2.csv**: The original dataset collected and Cleaned from Flipkart. [Download the dataset here](lappy2.csv).
 
 ## Usage
 
