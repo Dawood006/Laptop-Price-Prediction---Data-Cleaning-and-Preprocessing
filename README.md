@@ -1,6 +1,6 @@
 # Laptop Price Prediction - Data Cleaning and Preprocessing
 
-This repository contains the code and data for cleaning and preprocessing a dataset collected from [Flipkart](www.flipkart.com) for predicting laptop prices. The dataset includes various features related to laptops, such as specifications, warranty details, and other attributes. The goal is to clean and preprocess the data to prepare it for machine learning models.
+This repository contains the code and data for cleaning and preprocessing a dataset collected from [Flipkart](https://www.flipkart.com) for predicting laptop prices. The dataset includes various features related to laptops, such as specifications, warranty details, and other attributes. The goal is to clean and preprocess the data to prepare it for machine learning models.
 
 ## Dataset Overview
 
