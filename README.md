@@ -4,7 +4,7 @@ This repository contains the code and data for cleaning and preprocessing a data
 
 ## Dataset Overview
 
-The dataset was scraped from [Flipkart](www.flipkart.com) and contains information about various laptops. The dataset includes the following columns:
+The dataset was scraped from [Flipkart](https://www.flipkart.com) and contains information about various laptops. The dataset includes the following columns:
 
 ### Columns and Their Meanings
 
@@ -126,7 +126,7 @@ A Linear Regression model was used to predict the price of laptops based on the 
 ## Repository Structure
 
 - **Data_cleaning_Price_prediction.ipynb**: Jupyter notebook containing the code for data cleaning, preprocessing, and model building.
-- **lappy2.csv**: The original dataset collected and Cleaned from Flipkart. [Download the dataset here](lappy2.csv).
+- **lappy2.csv**: The original dataset collected from [Flipkart](https://www.flipkart.com). [Download the dataset here](lappy2.csv).
 
 ## Usage
 
@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The dataset was scraped from [Flipkart](www.flipkart.com).
+- The dataset was scraped from [Flipkart](https://www.flipkart.com/).
 - Special thanks to the open-source community for providing the tools and libraries used in this project.
 
 ---
