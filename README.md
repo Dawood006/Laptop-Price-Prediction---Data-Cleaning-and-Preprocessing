@@ -1,10 +1,10 @@
 # Laptop Price Prediction - Data Cleaning and Preprocessing
 
-This repository contains the code and data for cleaning and preprocessing a dataset collected from Flipkart for predicting laptop prices. The dataset includes various features related to laptops, such as specifications, warranty details, and other attributes. The goal is to clean and preprocess the data to prepare it for machine learning models.
+This repository contains the code and data for cleaning and preprocessing a dataset collected from [Flipkart](www.flipkart.com) for predicting laptop prices. The dataset includes various features related to laptops, such as specifications, warranty details, and other attributes. The goal is to clean and preprocess the data to prepare it for machine learning models.
 
 ## Dataset Overview
 
-The dataset was scraped from Flipkart and contains information about various laptops. The dataset includes the following columns:
+The dataset was scraped from [Flipkart](www.flipkart.com) and contains information about various laptops. The dataset includes the following columns:
 
 ### Columns and Their Meanings
 
@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The dataset was scraped from Flipkart.
+- The dataset was scraped from [Flipkart](www.flipkart.com).
 - Special thanks to the open-source community for providing the tools and libraries used in this project.
 
 ---
